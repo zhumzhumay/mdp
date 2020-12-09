@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler\avrasm32.exe" -fI -I "C:\Program Files\Atmel\AVR Tools\AvrAssembler\Appnotes" -o "D:\Eugene's files\Project1-Step_Motor\Injector\Injector.hex" -d "D:\Eugene's files\Project1-Step_Motor\Injector\Injector.obj" -e "D:\Eugene's files\Project1-Step_Motor\Injector\Injector.eep" -m "D:\Eugene's files\Project1-Step_Motor\Injector\Injector.map" "D:\Eugene's files\Project1-Step_Motor\Injector\Injector.asm"
